@@ -6,6 +6,11 @@
 ./mockshell
 ```
 
+## To rebuild the binary
+```
+go build -o mockshell main.go
+```
+
 ## List of Commands 
 
   - ls - Lists the files in the current directory
